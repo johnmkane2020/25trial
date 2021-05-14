@@ -11532,6 +11532,10 @@
         <layout>Bicycle__c-Bicycle Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
+        <layout>Bicycle__c-Bicycle Layout</layout>
+        <recordType>Bicycle__c.Power</recordType>
+    </layoutAssignments>
+    <layoutAssignments>
         <layout>Campaign-Campaign Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
