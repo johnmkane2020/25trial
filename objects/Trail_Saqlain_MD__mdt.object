@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fields>
+        <fullName>Phone__c</fullName>
+        <externalId>false</externalId>
+        <fieldManageability>DeveloperControlled</fieldManageability>
+        <label>Phone</label>
+        <required>false</required>
+        <type>Phone</type>
+    </fields>
+    <label>Trail Saqlain MD</label>
+    <pluralLabel>Trail Saqlain MD</pluralLabel>
+    <visibility>Public</visibility>
+</CustomObject>
