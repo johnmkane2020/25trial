@@ -207,6 +207,14 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>Opportunity_Number__c</fullName>
+        <displayFormat>Opportunity-{0000}</displayFormat>
+        <externalId>false</externalId>
+        <label>Opportunity Number</label>
+        <trackTrending>false</trackTrending>
+        <type>AutoNumber</type>
+    </fields>
+    <fields>
         <fullName>OwnerId</fullName>
         <trackFeedHistory>true</trackFeedHistory>
         <trackTrending>false</trackTrending>
