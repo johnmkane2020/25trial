@@ -187,6 +187,24 @@
             </valueSetDefinition>
         </valueSet>
     </fields>
+    <fields>
+        <fullName>Tyre_Brand__c</fullName>
+        <externalId>false</externalId>
+        <label>Tyre Brand</label>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>TextArea</type>
+    </fields>
+    <fields>
+        <fullName>Tyre_Size__c</fullName>
+        <externalId>false</externalId>
+        <label>Tyre Size</label>
+        <length>255</length>
+        <required>false</required>
+        <trackTrending>false</trackTrending>
+        <type>Text</type>
+        <unique>false</unique>
+    </fields>
     <label>Bicycle</label>
     <nameField>
         <label>Bicycle Name</label>
