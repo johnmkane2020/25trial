@@ -9,5 +9,6 @@ public class AccountOperationsTest {
         // Verify
         Account savedAcc = [SELECT Description FROM Account WHERE Id = :result.getId()];
         System.assertEquals('Default description', savedAcc.Description);
+        //Copado demo
     }
 }
