@@ -181,6 +181,11 @@
                     <label>Need More Info</label>
                 </value>
                 <value>
+                    <fullName>Buy It Now</fullName>
+                    <default>false</default>
+                    <label>Buy It Now</label>
+                </value>
+                <value>
                     <fullName>Nope</fullName>
                     <default>false</default>
                     <label>Nope</label>
