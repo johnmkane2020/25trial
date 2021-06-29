@@ -181,6 +181,11 @@
                     <default>false</default>
                     <label>Wow</label>
                 </value>
+                <value>
+                    <fullName>Buy It Now</fullName>
+                    <default>false</default>
+                    <label>Buy It Now</label>
+                </value>
             </valueSetDefinition>
         </valueSet>
     </fields>
