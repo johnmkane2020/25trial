@@ -37,6 +37,10 @@
                 <behavior>Edit</behavior>
                 <field>MyTextArea__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>No_of_Contacts__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
